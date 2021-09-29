@@ -1,33 +1,52 @@
 <div fxLayout="column">
     <!-- FILTER -->
-    <mat-form-field>
-        <input matInput (keyup)="onFilter($event)" placeholder="Quick filter" #input>
-    </mat-form-field>
+    <div fxLayout="row" fxLayoutAlign="space-between center" class="filter">
+        <mat-form-field class="filter-all">
+            <input matInput (keyup)="onFilter($event)" placeholder="Quick filter" #input>
+        </mat-form-field>
+        <button mat-flat-button color="primary" (click)="onCreate()">
+            NEW
+            <mat-icon>add</mat-icon>
+        </button>
+    </div>
 
     <!-- RESULTS -->
     <table mat-table [dataSource]="dataSource" matSort fxFlex>
         <!-- Name Column -->
         <ng-container matColumnDef="name">
             <th mat-header-cell mat-sort-header *matHeaderCellDef>Institution</th>
-            <td mat-cell *matCellDef="let data" tooltipEllipsis>{{ data.name }}</td>
+            <td mat-cell *matCellDef="let data">{{ data.name }}</td>
         </ng-container>
 
         <!-- City Column -->
         <ng-container matColumnDef="city">
             <th mat-header-cell mat-sort-header *matHeaderCellDef>City</th>
-            <td mat-cell *matCellDef="let data" tooltipEllipsis>{{ data.city }}</td>
+            <td mat-cell *matCellDef="let data">{{ data.city }}</td>
         </ng-container>
 
         <!-- Province Column -->
         <ng-container matColumnDef="province">
             <th mat-header-cell mat-sort-header *matHeaderCellDef>Province/Territory</th>
-            <td mat-cell *matCellDef="let data" tooltipEllipsis>{{ data.province }}</td>
+            <td mat-cell *matCellDef="let data">{{ data.province }}</td>
+        </ng-container>
+
+         <!-- Edit Column -->
+         <ng-container matColumnDef="edit">
+            <th mat-header-cell *matHeaderCellDef></th>
+            <td mat-cell *matCellDef="let data">
+                <div [fxShow]="selectedRow?.name == data.name">
+                    <button mat-icon-button color="accent" (click)="onEdit(data)"><mat-icon>edit</mat-icon></button>
+                    <button mat-icon-button (click)="onDelete(data.id)"><mat-icon>delete</mat-icon></button>
+                </div>
+            </td>
         </ng-container>
 
         <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
         <tr
             mat-row
-            *matRowDef="let row; columns: displayedColumns; let i = index"
+            *matRowDef="let data; columns: displayedColumns"
+            [class.selected]="selectedRow?.name == data.name"
+            (click)="onSelect(data)"
         ></tr>
 
         <!-- Row shown when there is no matching data. -->

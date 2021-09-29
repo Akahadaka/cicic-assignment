@@ -1,0 +1,30 @@
+<div cdkDrag cdkDragRootElement=".cdk-overlay-pane" cdkDragBoundary=".cdk-overlay-container">
+    <div mat-dialog-title cdkDragHandle fxLayout="row" fxLayoutAlign="space-between center">
+      <span>{{action === 'create' ? 'New' : 'Edit'}} Institution</span>
+      <button mat-icon-button (click)="close()">
+        <mat-icon>close</mat-icon>
+      </button>
+    </div>
+  </div>
+  
+  <mat-dialog-content class="upload-form-container">
+    <form [formGroup]="form" fxLayout="column">
+        <mat-form-field>
+            <input matInput formControlName="name" placeholder="Institution name">
+        </mat-form-field>
+
+        <mat-form-field>
+            <input matInput formControlName="city" placeholder="City">
+        </mat-form-field>
+
+        <mat-form-field>
+            <input matInput formControlName="province" placeholder="Province/Territory">
+        </mat-form-field>
+    </form>
+  </mat-dialog-content>
+  
+  <mat-dialog-actions align="end">
+    <button mat-flat-button (click)="close()">Cancel</button>
+    <button mat-flat-button (click)="update()" color="accent" *ngIf="action === 'update'">Update</button>
+    <button mat-flat-button (click)="create()" color="primary" *ngIf="action === 'create'">Create</button>
+  </mat-dialog-actions>

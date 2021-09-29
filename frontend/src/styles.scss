@@ -1,2 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
 @import "themes/green-blue/core";
+button.mat-flat-button {
+    text-transform: uppercase;
+}

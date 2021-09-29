@@ -1,0 +1,34 @@
+
+.filter { padding: 0 20px;}
+.filter-all { width: calc(50vw - 50px); }
+.filter-city { width: 20vw; }
+.filter-province { width: 20vw; }
+
+.mat-table {
+
+    th.mat-header-cell.mat-column-name { width: 50vw; }
+    th.mat-header-cell.mat-column-city { width: 20vw; }
+    th.mat-header-cell.mat-column-province { width: 20vw; }
+    th.mat-header-cell.mat-column-edit { width: 10vw; }
+
+    tr.mat-row {
+        cursor: pointer;
+        &:hover {
+            background-color: #cce0c4;
+        }
+    }
+
+    td.mat-cell {
+        box-sizing: border-box;
+        padding-top:1px;
+    }
+
+    tr.mat-row.selected {
+        td.mat-cell {
+            border-width: 1px;
+            border-color: #2b6a17;
+            border-top-style: solid;
+            border-bottom-style: solid;
+        }
+    }
+}
