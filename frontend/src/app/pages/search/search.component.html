@@ -1,9 +1,22 @@
 <div fxLayout="column">
     <!-- FILTER -->
-    <div fxLayout="row" fxLayoutAlign="space-between center" class="filter">
-        <mat-form-field class="filter-all">
-            <input matInput (keyup)="onFilter($event)" placeholder="Quick filter" #input>
-        </mat-form-field>
+    <div fxLayout="row" fxLayoutAlign="space-between center" class="filter" 
+        fxLayout.lt-lg="column-reverse" fxLayoutAlign.lt-lg="start start">
+        <div fxLayout="row" fxLayoutGap="10px">
+            <mat-form-field class="filter-all">
+                <input matInput (keyup)="onFilter($event)" placeholder="Quick filter" #input>
+            </mat-form-field>
+            <mat-form-field class="filter-city">
+                <mat-select placeholder="Filter by city" (valueChange)="onFilter($event)">
+                    <mat-option *ngFor="let city of citiesList" [value]="city">{{city}}</mat-option>
+                </mat-select>
+            </mat-form-field>
+            <mat-form-field class="filter-province">
+                <mat-select placeholder="Filter by province" (valueChange)="onFilter($event)">
+                    <mat-option *ngFor="let province of provincesList" [value]="province">{{province}}</mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
         <button mat-flat-button color="accent" (click)="onCreate()">
             NEW
             <mat-icon>add</mat-icon>

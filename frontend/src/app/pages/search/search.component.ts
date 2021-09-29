@@ -21,6 +21,8 @@ export class SearchComponent implements AfterViewInit, OnDestroy {
   displayedColumns = ['name', 'city', 'province', 'edit']
 
   selectedRow: Institution | null
+  citiesList = new Set()
+  provincesList = new Set()
 
   destroy$: Subject<void> = new Subject()
 
@@ -33,6 +35,11 @@ export class SearchComponent implements AfterViewInit, OnDestroy {
     this.dataService.getInstitutions()
     this.dataService.institutions$.pipe(takeUntil(this.destroy$)).subscribe((data: Institution[]) => {
       this.dataSource.data = data
+      data.forEach(x => {
+        this.citiesList.add(x.city)
+        this.provincesList.add(x.province)
+      })
+      this.citiesList = new Set(Array.from(this.citiesList).sort())
     })
   }
 
@@ -45,9 +52,12 @@ export class SearchComponent implements AfterViewInit, OnDestroy {
     this.selectedRow = row
   }
 
-  onFilter(event: Event) {
-    const filterValue = (event.target as HTMLInputElement).value
-    this.dataSource.filter = filterValue.trim().toLowerCase()
+  onFilter(event: Event | string) {
+    let filterValue = event
+    if (typeof event !== 'string') {
+      filterValue = (event.target as HTMLInputElement).value
+    }
+    this.dataSource.filter = (filterValue as string).trim().toLowerCase()
 
     if (this.dataSource.paginator) {
       this.dataSource.paginator.firstPage()
