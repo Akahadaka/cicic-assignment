@@ -1,6 +1,8 @@
 import { AfterViewInit, Component, OnDestroy, ViewChild } from '@angular/core'
 import { MatDialog } from '@angular/material/dialog'
+import { MatInput } from '@angular/material/input'
 import { MatPaginator } from '@angular/material/paginator'
+import { MatSelect } from '@angular/material/select'
 import { MatSort } from '@angular/material/sort'
 import { MatTableDataSource } from '@angular/material/table'
 import { Institution } from '@app/data/data.model'
@@ -23,11 +25,15 @@ export class SearchComponent implements AfterViewInit, OnDestroy {
   selectedRow: Institution | null
   citiesList = new Set()
   provincesList = new Set()
+  filter: string
 
   destroy$: Subject<void> = new Subject()
 
   @ViewChild(MatPaginator) paginator: MatPaginator
   @ViewChild(MatSort) sort: MatSort
+  @ViewChild('input') input: MatInput
+  @ViewChild('citySelect') citySelect: MatSelect
+  @ViewChild('provinceSelect') provinceSelect: MatSelect
 
   constructor(private dataService: DataService, private dialog: MatDialog) {
 
@@ -52,7 +58,18 @@ export class SearchComponent implements AfterViewInit, OnDestroy {
     this.selectedRow = row
   }
 
-  onFilter(event: Event | string) {
+  onFilter(event: Event | string, source: string) {
+    if (source === 'city') {
+      this.filter = ''
+      this.provinceSelect.value = ''
+    } else if (source === 'province') {
+      this.filter = ''
+      this.citySelect.value = ''
+    } else if (source === 'input') {
+      this.provinceSelect.value = ''
+      this.citySelect.value = ''
+    }
+
     let filterValue = event
     if (typeof event !== 'string') {
       filterValue = (event.target as HTMLInputElement).value

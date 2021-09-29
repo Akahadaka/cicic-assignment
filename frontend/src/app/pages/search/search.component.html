@@ -4,15 +4,15 @@
         fxLayout.lt-lg="column-reverse" fxLayoutAlign.lt-lg="start start">
         <div fxLayout="row" fxLayoutGap="10px">
             <mat-form-field class="filter-all">
-                <input matInput (keyup)="onFilter($event)" placeholder="Quick filter" #input>
+                <input matInput (keyup)="onFilter($event, 'input')" placeholder="Quick filter" [(ngModel)]="filter" #input>
             </mat-form-field>
             <mat-form-field class="filter-city">
-                <mat-select placeholder="Filter by city" (valueChange)="onFilter($event)">
+                <mat-select placeholder="Filter by city" (valueChange)="onFilter($event, 'city')" #citySelect>
                     <mat-option *ngFor="let city of citiesList" [value]="city">{{city}}</mat-option>
                 </mat-select>
             </mat-form-field>
             <mat-form-field class="filter-province">
-                <mat-select placeholder="Filter by province" (valueChange)="onFilter($event)">
+                <mat-select placeholder="Filter by province" (valueChange)="onFilter($event, 'province')" #provinceSelect>
                     <mat-option *ngFor="let province of provincesList" [value]="province">{{province}}</mat-option>
                 </mat-select>
             </mat-form-field>
