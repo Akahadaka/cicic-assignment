@@ -36,9 +36,19 @@ export class EditDialogComponent implements OnInit {
 
     update() {
         this.dataService.updateInstitute(this.form.value)
+        .subscribe(result => {
+            if (result) {
+                this.dialogRef.close()
+            }
+        })
     }
 
     create() {
         this.dataService.createInstitute(this.form.value)
+        .subscribe(result => {
+            if (result) {
+                this.dialogRef.close()
+            }
+        })
     }
 }

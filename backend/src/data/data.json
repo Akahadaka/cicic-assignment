@@ -1682,16 +1682,6 @@
       "sector": "For-profit",
       "education": "career colleges and vocational/technical schools",
       "status": "Registered"
-    },
-    {
-      "id": 188,
-      "name": "test",
-      "city": "test",
-      "province": "test",
-      "sector": null,
-      "education": null,
-      "status": null,
-      "archived": true
     }
   ]
 }

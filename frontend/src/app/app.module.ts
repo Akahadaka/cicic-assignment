@@ -7,7 +7,9 @@ import { EditDialogModule } from '@app/shared/edit-dialog/edit-dialog.module'
 import { MaterialModule } from '@app/shared/material/material.module'
 
 import { AppRoutingModule } from './app-routing.module'
-import { AppComponent } from './app.component'
+import { AppComponent } from './app.component';
+import { AboutComponent } from './pages/about/about.component';
+import { HomeComponent } from './pages/home/home.component'
 
 @NgModule({
   imports: [
@@ -19,7 +21,7 @@ import { AppComponent } from './app.component'
     MaterialModule,
     SearchModule
   ],
-  declarations: [AppComponent],
+  declarations: [AppComponent, AboutComponent, HomeComponent],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

@@ -11,7 +11,7 @@
     th.mat-header-cell.mat-column-province { width: 20vw; }
     th.mat-header-cell.mat-column-edit { width: 10vw; }
 
-    tr.mat-row {
+    tr.mat-row:not(.no-data) {
         cursor: pointer;
         &:hover {
             background-color: #cce0c4;

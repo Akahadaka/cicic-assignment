@@ -1,5 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "themes/green-blue/core";
+
+body,
+html {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
 button.mat-flat-button {
     text-transform: uppercase;
 }
