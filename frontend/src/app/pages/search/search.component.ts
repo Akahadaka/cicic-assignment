@@ -7,9 +7,10 @@ import { DataService } from '@app/data/data.service'
   styleUrls: ['./search.component.scss'],
 })
 export class SearchComponent implements OnInit {
+
+  
+
   constructor(private dataService: DataService) {
-    // test
-    this.dataService.getData();
   }
 
   ngOnInit() {}

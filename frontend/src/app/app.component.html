@@ -1,0 +1,15 @@
+<mat-toolbar>
+    <mat-toolbar-row fxLayoutAlign="space-between center">
+        <span>App Name</span>
+        <button mat-icon-button><mat-icon>menu</mat-icon></button>
+    </mat-toolbar-row>
+    <mat-toolbar-row>
+        <nav mat-tab-nav-bar fxFlex fxLayoutGap="20px">
+            <a mat-tab-link routerLink="home">Home</a>
+            <a mat-tab-link routerLink="search">Search</a>
+            <a mat-tab-link routerLink="about">About</a>
+          </nav>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<router-outlet></router-outlet>
