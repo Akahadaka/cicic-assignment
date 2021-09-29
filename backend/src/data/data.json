@@ -1,191 +1,1697 @@
 {
-    "data": [
-        { "name": "1st Academy of Transportation Inc.", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "A1 Transportation Academy", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "A-1 Truck, Bus & Forklift Training School", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "A1-Global College of Health, Business & Technology, Mississauga/Drew Rd.", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "ABC Access Business College, Toronto", "city": "North York", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning - Winnipeg North", "city": "Winnipeg", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning - Winnipeg North (Niverville Campus)", "city": "Niverville", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning - Winnipeg North (Selkirk Campus)", "city": "Selkirk", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Brampton/Hurontario", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Mississauga/Dundas East", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Thunder Bay", "city": "Thunder Bay", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Toronto/Albion Road", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Toronto/Bay Street", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Toronto/Finch Avenue West", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Toronto/Lawrence Avenue East", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Academy of Learning Career and Business College, Toronto/Warden Avenue", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "AD Truck Driving School", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "AIMS College Healthcare Management Technology, Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Algonquin Careers Academy, Albert Street, Ottawa", "city": "Ottawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Algonquin Careers Academy, Bank Street, Ottawa", "city": "Ottawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Algonquin Careers Academy, Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Allway Trucking Services", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Alpha College of Business and Technology", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Anokiiwin Training Institute Inc.", "city": "Winnipeg", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Araz Trucking School", "city": "Richmond Hill", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Arrow Lakes SD#10", "city": "Nakusp", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Astas Hairstyling School, Peterborough", "city": "Peterborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Aveda Institute Toronto (The), Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Battle River Regional Division No. 31", "city": "Camrose", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Bella's Beauty Academy", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Beta College of Business and Technology - Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Beta College of Business and Technology, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "BITTS International Career College, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "BITTS International Career College, Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Black Gold Regional Division No. 18", "city": "Nisku", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Blue Rock Truck Training School", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Boundary SD#51", "city": "Grand Forks", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "B-Pro Dog Grooming Academy, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Bruno's School of Hair Design, Hamilton", "city": "Hamilton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Burnaby SD#41", "city": "Burnaby", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Calgary Roman Catholic Separate School District No. 1", "city": "Calgary", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Calgary School District No. 19", "city": "Calgary", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Canada Heavy Equipment College, Cambridge", "city": "Cambridge", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian College of Educators, Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian College of Health Science and Technology, Windsor", "city": "Windsor", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian International College of Transportation and Technologies", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian Rockies Regional Division No. 12", "city": "Canmore", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Canadian School of Natural Nutrition, London", "city": "London", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian School of Natural Nutrition, Ottawa", "city": "Ottawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian School of Transportation Services", "city": "Caledon", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian Vocational Training Centre", "city": "Prince George", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Canadian Working Divers Institute, Chapleau", "city": "Chapleau", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Can-Weld Training & Testing Centre, Sarnia", "city": "Sarnia", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Cestar College of Business, Health and Technology, Toronto (Yonge)", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Cestar College of Business, Health and Technology, Toronto (Yorkland)", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Chinook Helicopters (1982) Ltd.", "city": "Abbotsford", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Chinook School Division No. 211", "city": "Swift Current", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Christ The Teacher R.C.S.S.D. No. 212", "city": "Yorkton", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Citi College of Canadian Careers - Mississauga Campus", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "CITI College of Canadian Careers, Toronto/Lawrence Avenue East", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "CJ Health Care College, North York", "city": "North York", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "CJ Health Care College, Toronto/Neilson Road", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Clarkridge Career Institute, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Clarkridge Career Institute, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Clearview School Division No. 71", "city": "Stettler", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Collège André-Grasset (1973) inc.", "city": "Montréal", "province": "Quebec", "sector": "Non-profit", "education": "college", "status": "Recognized" },
-        { "name": "Collège Bart (1975) / Collège Radio Télévision de Québec", "city": "Québec", "province": "Quebec", "sector": "Non-profit", "education": "college", "status": "Recognized" },
-        { "name": "Comox Valley SD#71", "city": "Courtenay", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Computek College of Business, Healthcare & Technology, Markham", "city": "Markham", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Computek College of Business, Healthcare & Technology, Toronto/Eglinton Avenue East", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Conbridge College of Business and Technology", "city": "North York", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Conseil des écoles fransaskoises No. 310", "city": "Regina", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Cornwall Aviation (1979) Ltd., Summerstown", "city": "Summerstown", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Creighton School Division No. 111", "city": "Creighton", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Crossroads Truck Training Academy, Barrie", "city": "Barrie", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Crossroads Truck Training Academy, Ottawa", "city": "Ottawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Crossroads Truck Training Academy, Smiths Falls", "city": "Smiths Falls", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Daytona Truck Driving & Forklift School", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "East Central Alberta Catholic Separate Schools Regional Division No. 16", "city": "Wainwright", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Ecole St-Joseph (1985) inc.", "city": "Montréal", "province": "Quebec", "sector": "Non-profit", "education": "elementary/secondary school", "status": "Authorized" },
-        { "name": "Elite Truck Driving Academy", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Elk Island Catholic Separate Regional Division No. 41", "city": "Sherwood Park", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Elk Island Public Schools Regional Division No. 14", "city": "Sherwood Park", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Evergreen College, Markham", "city": "Markham", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ezone Academy (A division of Renaissance Salon), St. Catharines", "city": "St. Catharines", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Flair College of Management and Technology", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Flair College of Management and Technology, Concord", "city": "Concord", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Fluffy Paws Grooming School", "city": "Richmond Hill", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Fort Nelson SD#81", "city": "Fort Nelson", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Gates College of Business, Culinary & Healthcare, Cobourg (formerly Asimco College of Business, Healthcare & Technology, Cobourg)", "city": "Cobourg", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Gates College of Business, Culinary & Healthcare, Peterborough", "city": "Peterborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Gates College of Business, Culinary & Healthcare, Sault Ste Marie (formerly Asimco College of Business, Healthcare & Technology, Sault Ste Marie)", "city": "Sault Ste. Marie", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Grade Learning, Finch West, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Great Lakes Technical Training, Windsor", "city": "Windsor", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Great Truck Driving School", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "GREAT TRUCK DRIVING SCHOOL, St. Catharines", "city": "St. Catharines", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Greater Victoria SD#61", "city": "Victoria", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Greystone College of Business and Technology - Vancouver", "city": "Vancouver", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "H & Co. Academy Esthetics", "city": "Brandon", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Hair Art Academy - Surrey", "city": "Surrey", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Halton Skilled Trades Academy, Oakville", "city": "Oakville", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Hamilton Institute for Health Personnel, Hamilton", "city": "Hamilton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Hamilton Truck Training Centre", "city": "Hamilton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Helicopters Canada, North Bay", "city": "North Bay", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Holy Family R.C.S.S.D. No. 140", "city": "Weyburn", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "IBT College Business Travel & Tourism Technology, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ile a la Crosse School Division No. 112", "city": "Ile-a-la-Crosse", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Inspire Truck Driving Academy", "city": "Etobicoke", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "IUOE Local 115 Training Association", "city": "Maple Ridge", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Jay's Professional Truck Training Centre, Toronto", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Jyot's Aesthetics Academy, Brampton/Peter Robertson Boulevard", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "KLC College, Healthcare, Business, Education, Kingston 1", "city": "Kingston", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Lakeland Roman Catholic Separate School District No. 150", "city": "Bonnyville", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "L'École du routier professionnel du Québec (1996) inc.", "city": "Montréal", "province": "Quebec", "sector": "For-profit", "education": "vocational training institution", "status": "Authorized" },
-        { "name": "L'École Selwyn House, Campus 1", "city": "Westmount", "province": "Quebec", "sector": "Non-profit", "education": "elementary/secondary school", "status": "Authorized" },
-        { "name": "Lethbridge School District No. 51", "city": "Lethbridge", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Liaison College (Oakville Campus), Oakville", "city": "Oakville", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Liaison College, Barrie", "city": "Barrie", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Liaison College, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Liaison College, Hamilton", "city": "Hamilton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Liaison College, Toronto/Lakeshore Boulevard West, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Light Of Christ R.C.S.S.D. No. 16", "city": "North Battleford", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Metro College of Technology, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Mile 918 Driver Development", "city": "Whitehorse", "province": "Yukon", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Moga Truck Driving School", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Nechako Lakes SD#91", "city": "Vanderhoof", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "New Skills College of Health, Business, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Newbarry of Business,Service and Technology", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Newborough Teacher Training Institute, Richmond Hill", "city": "Richmond Hill", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Niagara Skilled Trades Academy, St. Catharines", "city": "St. Catharines", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Northern Academy of Transportation Training, Lively", "city": "Lively", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Northern Gateway Regional Division No. 10", "city": "Whitecourt", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Northern Lights School Division No. 113", "city": "La Ronge", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Northland School Division No. 61", "city": "Peace River", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Northwest Francophone Education Region No. 1", "city": "St. Isidore", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Nu-Wave School of Hair Design, Thunder Bay", "city": "Thunder Bay", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ontario Truck and Safety Training", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ontario Truck Training Academy, Belleville", "city": "Belleville", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ontario Truck Training Academy, Kingston", "city": "Kingston", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ontario Truck Training Academy, Oshawa", "city": "Oshawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ontario Truck Training Academy, Peterborough", "city": "Peterborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Pacific Coastal College of Massage Therapy", "city": "Edmonton", "province": "Alberta", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Peace River School Division No. 10", "city": "Peace River", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Peel College of Professional Studies", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Peel Truck Driving School, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Peel Truck Driving School, Guelph", "city": "Guelph", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Prairie South School Division No. 210", "city": "Moose Jaw", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Protege School, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "RAC Digital Arts College, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Red Deer Public School District No. 104", "city": "Red Deer", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Regina R.C.S.S.D. No. 81", "city": "Regina", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Revelstoke SD#19", "city": "Revelstoke", "province": "British Columbia", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Rockcliffe Flying Club (1961), Ottawa", "city": "Ottawa", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Rocky View School Division No. 41", "city": "Airdrie", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Saskatchewan Rivers School Division No. 119", "city": "Prince Albert", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Saskatoon School Division No. 13", "city": "Saskatoon", "province": "Saskatchewan", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Shaun Truck Driving School", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Southern Interior Flight Centre", "city": "Kelowna", "province": "British Columbia", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Southwest Fire Academy", "city": "Delhi", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Spectrum Airways, Burlington", "city": "Burlington", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "St. Paul Education Regional Division No. 1", "city": "St. Paul", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Stanford International College of Business & Technology, 7-1011 Eglinton - Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Stanford International College of Business & Technology, Scarborough", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Stanford International College of Business & Technology, Toronto", "city": "North York", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Stanford International College of Business and Technology, 1-1011 Eglinton - Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Stanford International College of Business and Technology, Brampton", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Taha Academy of Beauty, Business & Health", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Ten Four Trainers", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "The Fiorio Beauty Academy, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Thompson Career College of Health and Business, London", "city": "London", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Thompson Career College of Health and Business, Markham", "city": "Markham", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Thompson Career College of Health and Business, Mississauga", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Toronto Business College, Scarborough", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Toronto Film School, 1835 Yonge (Davisville)", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Toronto Film School, 415 Yonge", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Toronto International Business College, Scarborough", "city": "Scarborough", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Toronto International Business College, Scarborough (200A)", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Transitions College of Business and Career Studies, Niagara Falls", "city": "Niagara Falls", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "United Transportation Driver Training", "city": "Steinbach", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "United Transportation Driver Training (Brandon Campus)", "city": "Brandon", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "United Transportation Driver Training (Winkler Campus)", "city": "Winkler", "province": "Manitoba", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Wetaskiwin Regional Division No. 11", "city": "Wetaskiwin", "province": "Alberta", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "Wheels AZ", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Yellowknife Education District No. 1", "city": "Yellowknife", "province": "Northwest Territories", "sector": "Public", "education": "elementary/secondary school board/district", "status": "Recognized" },
-        { "name": "York Construction Academy, Toronto", "city": "Toronto", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Young Canadian Driving Academy", "city": "Mississauga", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" },
-        { "name": "Youth Truck Driving School", "city": "Brampton", "province": "Ontario", "sector": "For-profit", "education": "career colleges and vocational/technical schools", "status": "Registered" }    
-    ]
+  "data": [
+    {
+      "id": 1,
+      "name": "1st Academy of Transportation Inc.",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 2,
+      "name": "A1 Transportation Academy",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit,education",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 3,
+      "name": "A-1 Truck, Bus & Forklift Training School",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 4,
+      "name": "A1-Global College of Health, Business & Technology, Mississauga/Drew Rd.",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 5,
+      "name": "ABC Access Business College, Toronto",
+      "city": "North York",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 6,
+      "name": "Academy of Learning - Winnipeg North",
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 7,
+      "name": "Academy of Learning - Winnipeg North (Niverville Campus)",
+      "city": "Niverville",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 8,
+      "name": "Academy of Learning - Winnipeg North (Selkirk Campus)",
+      "city": "Selkirk",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 9,
+      "name": "Academy of Learning Career and Business College, Brampton/Hurontario",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 10,
+      "name": "Academy of Learning Career and Business College, Mississauga/Dundas East",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 11,
+      "name": "Academy of Learning Career and Business College, Thunder Bay",
+      "city": "Thunder Bay",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 12,
+      "name": "Academy of Learning Career and Business College, Toronto/Albion Road",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 13,
+      "name": "Academy of Learning Career and Business College, Toronto/Bay Street",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 14,
+      "name": "Academy of Learning Career and Business College, Toronto/Finch Avenue West",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 15,
+      "name": "Academy of Learning Career and Business College, Toronto/Lawrence Avenue East",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 16,
+      "name": "Academy of Learning Career and Business College, Toronto/Warden Avenue",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 17,
+      "name": "AD Truck Driving School",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 18,
+      "name": "AIMS College Healthcare Management Technology, Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 19,
+      "name": "Algonquin Careers Academy, Albert Street, Ottawa",
+      "city": "Ottawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 20,
+      "name": "Algonquin Careers Academy, Bank Street, Ottawa",
+      "city": "Ottawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 21,
+      "name": "Algonquin Careers Academy, Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 22,
+      "name": "Allway Trucking Services",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 23,
+      "name": "Alpha College of Business and Technology",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 24,
+      "name": "Anokiiwin Training Institute Inc.",
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 25,
+      "name": "Araz Trucking School",
+      "city": "Richmond Hill",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 26,
+      "name": "Arrow Lakes SD#10",
+      "city": "Nakusp",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 27,
+      "name": "Astas Hairstyling School, Peterborough",
+      "city": "Peterborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 28,
+      "name": "Aveda Institute Toronto (The), Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 29,
+      "name": "Battle River Regional Division No. 31",
+      "city": "Camrose",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 30,
+      "name": "Bella's Beauty Academy",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 31,
+      "name": "Beta College of Business and Technology - Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 32,
+      "name": "Beta College of Business and Technology, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 33,
+      "name": "BITTS International Career College, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 34,
+      "name": "BITTS International Career College, Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 35,
+      "name": "Black Gold Regional Division No. 18",
+      "city": "Nisku",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 36,
+      "name": "Blue Rock Truck Training School",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 37,
+      "name": "Boundary SD#51",
+      "city": "Grand Forks",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 38,
+      "name": "B-Pro Dog Grooming Academy, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 39,
+      "name": "Bruno's School of Hair Design, Hamilton",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 40,
+      "name": "Burnaby SD#41",
+      "city": "Burnaby",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 41,
+      "name": "Calgary Roman Catholic Separate School District No. 1",
+      "city": "Calgary",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 42,
+      "name": "Calgary School District No. 19",
+      "city": "Calgary",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 43,
+      "name": "Canada Heavy Equipment College, Cambridge",
+      "city": "Cambridge",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 44,
+      "name": "Canadian College of Educators, Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 45,
+      "name": "Canadian College of Health Science and Technology, Windsor",
+      "city": "Windsor",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 46,
+      "name": "Canadian International College of Transportation and Technologies",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 47,
+      "name": "Canadian Rockies Regional Division No. 12",
+      "city": "Canmore",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 48,
+      "name": "Canadian School of Natural Nutrition, London",
+      "city": "London",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 49,
+      "name": "Canadian School of Natural Nutrition, Ottawa",
+      "city": "Ottawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 50,
+      "name": "Canadian School of Transportation Services",
+      "city": "Caledon",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 51,
+      "name": "Canadian Vocational Training Centre",
+      "city": "Prince George",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 52,
+      "name": "Canadian Working Divers Institute, Chapleau",
+      "city": "Chapleau",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 53,
+      "name": "Can-Weld Training & Testing Centre, Sarnia",
+      "city": "Sarnia",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 54,
+      "name": "Cestar College of Business, Health and Technology, Toronto (Yonge)",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 55,
+      "name": "Cestar College of Business, Health and Technology, Toronto (Yorkland)",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 56,
+      "name": "Chinook Helicopters (1982) Ltd.",
+      "city": "Abbotsford",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 57,
+      "name": "Chinook School Division No. 211",
+      "city": "Swift Current",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 58,
+      "name": "Christ The Teacher R.C.S.S.D. No. 212",
+      "city": "Yorkton",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 59,
+      "name": "Citi College of Canadian Careers - Mississauga Campus",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 60,
+      "name": "CITI College of Canadian Careers, Toronto/Lawrence Avenue East",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 61,
+      "name": "CJ Health Care College, North York",
+      "city": "North York",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 62,
+      "name": "CJ Health Care College, Toronto/Neilson Road",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 63,
+      "name": "Clarkridge Career Institute, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 64,
+      "name": "Clarkridge Career Institute, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 65,
+      "name": "Clearview School Division No. 71",
+      "city": "Stettler",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 66,
+      "name": "Collège André-Grasset (1973) inc.",
+      "city": "Montréal",
+      "province": "Quebec",
+      "sector": "Non-profit",
+      "education": "college",
+      "status": "Recognized"
+    },
+    {
+      "id": 67,
+      "name": "Collège Bart (1975) / Collège Radio Télévision de Québec",
+      "city": "Québec",
+      "province": "Quebec",
+      "sector": "Non-profit",
+      "education": "college",
+      "status": "Recognized"
+    },
+    {
+      "id": 68,
+      "name": "Comox Valley SD#71",
+      "city": "Courtenay",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 69,
+      "name": "Computek College of Business, Healthcare & Technology, Markham",
+      "city": "Markham",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 70,
+      "name": "Computek College of Business, Healthcare & Technology, Toronto/Eglinton Avenue East",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 71,
+      "name": "Conbridge College of Business and Technology",
+      "city": "North York",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 72,
+      "name": "Conseil des écoles fransaskoises No. 310",
+      "city": "Regina",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 73,
+      "name": "Cornwall Aviation (1979) Ltd., Summerstown",
+      "city": "Summerstown",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 74,
+      "name": "Creighton School Division No. 111",
+      "city": "Creighton",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 75,
+      "name": "Crossroads Truck Training Academy, Barrie",
+      "city": "Barrie",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 76,
+      "name": "Crossroads Truck Training Academy, Ottawa",
+      "city": "Ottawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 77,
+      "name": "Crossroads Truck Training Academy, Smiths Falls",
+      "city": "Smiths Falls",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 78,
+      "name": "Daytona Truck Driving & Forklift School",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 79,
+      "name": "East Central Alberta Catholic Separate Schools Regional Division No. 16",
+      "city": "Wainwright",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 80,
+      "name": "Ecole St-Joseph (1985) inc.",
+      "city": "Montréal",
+      "province": "Quebec",
+      "sector": "Non-profit",
+      "education": "elementary/secondary school",
+      "status": "Authorized"
+    },
+    {
+      "id": 81,
+      "name": "Elite Truck Driving Academy",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 82,
+      "name": "Elk Island Catholic Separate Regional Division No. 41",
+      "city": "Sherwood Park",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 83,
+      "name": "Elk Island Public Schools Regional Division No. 14",
+      "city": "Sherwood Park",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 84,
+      "name": "Evergreen College, Markham",
+      "city": "Markham",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 85,
+      "name": "Ezone Academy (A division of Renaissance Salon), St. Catharines",
+      "city": "St. Catharines",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 86,
+      "name": "Flair College of Management and Technology",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 87,
+      "name": "Flair College of Management and Technology, Concord",
+      "city": "Concord",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 88,
+      "name": "Fluffy Paws Grooming School",
+      "city": "Richmond Hill",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 89,
+      "name": "Fort Nelson SD#81",
+      "city": "Fort Nelson",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 90,
+      "name": "Gates College of Business, Culinary & Healthcare, Cobourg (formerly Asimco College of Business, Healthcare & Technology, Cobourg)",
+      "city": "Cobourg",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 91,
+      "name": "Gates College of Business, Culinary & Healthcare, Peterborough",
+      "city": "Peterborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 92,
+      "name": "Gates College of Business, Culinary & Healthcare, Sault Ste Marie (formerly Asimco College of Business, Healthcare & Technology, Sault Ste Marie)",
+      "city": "Sault Ste. Marie",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 93,
+      "name": "Grade Learning, Finch West, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 94,
+      "name": "Great Lakes Technical Training, Windsor",
+      "city": "Windsor",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 95,
+      "name": "Great Truck Driving School",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 96,
+      "name": "GREAT TRUCK DRIVING SCHOOL, St. Catharines",
+      "city": "St. Catharines",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 97,
+      "name": "Greater Victoria SD#61",
+      "city": "Victoria",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 98,
+      "name": "Greystone College of Business and Technology - Vancouver",
+      "city": "Vancouver",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 99,
+      "name": "H & Co. Academy Esthetics",
+      "city": "Brandon",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 100,
+      "name": "Hair Art Academy - Surrey",
+      "city": "Surrey",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 101,
+      "name": "Halton Skilled Trades Academy, Oakville",
+      "city": "Oakville",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 102,
+      "name": "Hamilton Institute for Health Personnel, Hamilton",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 103,
+      "name": "Hamilton Truck Training Centre",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 104,
+      "name": "Helicopters Canada, North Bay",
+      "city": "North Bay",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 105,
+      "name": "Holy Family R.C.S.S.D. No. 140",
+      "city": "Weyburn",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 106,
+      "name": "IBT College Business Travel & Tourism Technology, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 107,
+      "name": "Ile a la Crosse School Division No. 112",
+      "city": "Ile-a-la-Crosse",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 108,
+      "name": "Inspire Truck Driving Academy",
+      "city": "Etobicoke",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 109,
+      "name": "IUOE Local 115 Training Association",
+      "city": "Maple Ridge",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 110,
+      "name": "Jay's Professional Truck Training Centre, Toronto",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 111,
+      "name": "Jyot's Aesthetics Academy, Brampton/Peter Robertson Boulevard",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 112,
+      "name": "KLC College, Healthcare, Business, Education, Kingston 1",
+      "city": "Kingston",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 113,
+      "name": "Lakeland Roman Catholic Separate School District No. 150",
+      "city": "Bonnyville",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 114,
+      "name": "L'École du routier professionnel du Québec (1996) inc.",
+      "city": "Montréal",
+      "province": "Quebec",
+      "sector": "For-profit",
+      "education": "vocational training institution",
+      "status": "Authorized"
+    },
+    {
+      "id": 115,
+      "name": "L'École Selwyn House, Campus 1",
+      "city": "Westmount",
+      "province": "Quebec",
+      "sector": "Non-profit",
+      "education": "elementary/secondary school",
+      "status": "Authorized"
+    },
+    {
+      "id": 116,
+      "name": "Lethbridge School District No. 51",
+      "city": "Lethbridge",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 117,
+      "name": "Liaison College (Oakville Campus), Oakville",
+      "city": "Oakville",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 118,
+      "name": "Liaison College, Barrie",
+      "city": "Barrie",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 119,
+      "name": "Liaison College, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 120,
+      "name": "Liaison College, Hamilton",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 121,
+      "name": "Liaison College, Toronto/Lakeshore Boulevard West, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 122,
+      "name": "Light Of Christ R.C.S.S.D. No. 16",
+      "city": "North Battleford",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 123,
+      "name": "Metro College of Technology, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 124,
+      "name": "Mile 918 Driver Development",
+      "city": "Whitehorse",
+      "province": "Yukon",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 125,
+      "name": "Moga Truck Driving School",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 126,
+      "name": "Nechako Lakes SD#91",
+      "city": "Vanderhoof",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 127,
+      "name": "New Skills College of Health, Business, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 128,
+      "name": "Newbarry of Business,Service and Technology",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 129,
+      "name": "Newborough Teacher Training Institute, Richmond Hill",
+      "city": "Richmond Hill",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 130,
+      "name": "Niagara Skilled Trades Academy, St. Catharines",
+      "city": "St. Catharines",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 131,
+      "name": "Northern Academy of Transportation Training, Lively",
+      "city": "Lively",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 132,
+      "name": "Northern Gateway Regional Division No. 10",
+      "city": "Whitecourt",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 133,
+      "name": "Northern Lights School Division No. 113",
+      "city": "La Ronge",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 134,
+      "name": "Northland School Division No. 61",
+      "city": "Peace River",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 135,
+      "name": "Northwest Francophone Education Region No. 1",
+      "city": "St. Isidore",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 136,
+      "name": "Nu-Wave School of Hair Design, Thunder Bay",
+      "city": "Thunder Bay",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 137,
+      "name": "Ontario Truck and Safety Training",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 138,
+      "name": "Ontario Truck Training Academy, Belleville",
+      "city": "Belleville",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 139,
+      "name": "Ontario Truck Training Academy, Kingston",
+      "city": "Kingston",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 140,
+      "name": "Ontario Truck Training Academy, Oshawa",
+      "city": "Oshawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 141,
+      "name": "Ontario Truck Training Academy, Peterborough",
+      "city": "Peterborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 142,
+      "name": "Pacific Coastal College of Massage Therapy",
+      "city": "Edmonton",
+      "province": "Alberta",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 143,
+      "name": "Peace River School Division No. 10",
+      "city": "Peace River",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 144,
+      "name": "Peel College of Professional Studies",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 145,
+      "name": "Peel Truck Driving School, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 146,
+      "name": "Peel Truck Driving School, Guelph",
+      "city": "Guelph",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 147,
+      "name": "Prairie South School Division No. 210",
+      "city": "Moose Jaw",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 148,
+      "name": "Protege School, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 149,
+      "name": "RAC Digital Arts College, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 150,
+      "name": "Red Deer Public School District No. 104",
+      "city": "Red Deer",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 151,
+      "name": "Regina R.C.S.S.D. No. 81",
+      "city": "Regina",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 152,
+      "name": "Revelstoke SD#19",
+      "city": "Revelstoke",
+      "province": "British Columbia",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 153,
+      "name": "Rockcliffe Flying Club (1961), Ottawa",
+      "city": "Ottawa",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 154,
+      "name": "Rocky View School Division No. 41",
+      "city": "Airdrie",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 155,
+      "name": "Saskatchewan Rivers School Division No. 119",
+      "city": "Prince Albert",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 156,
+      "name": "Saskatoon School Division No. 13",
+      "city": "Saskatoon",
+      "province": "Saskatchewan",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 157,
+      "name": "Shaun Truck Driving School",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 158,
+      "name": "Southern Interior Flight Centre",
+      "city": "Kelowna",
+      "province": "British Columbia",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 159,
+      "name": "Southwest Fire Academy",
+      "city": "Delhi",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 160,
+      "name": "Spectrum Airways, Burlington",
+      "city": "Burlington",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 161,
+      "name": "St. Paul Education Regional Division No. 1",
+      "city": "St. Paul",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 162,
+      "name": "Stanford International College of Business & Technology, 7-1011 Eglinton - Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 163,
+      "name": "Stanford International College of Business & Technology, Scarborough",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 164,
+      "name": "Stanford International College of Business & Technology, Toronto",
+      "city": "North York",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 165,
+      "name": "Stanford International College of Business and Technology, 1-1011 Eglinton - Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 166,
+      "name": "Stanford International College of Business and Technology, Brampton",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 167,
+      "name": "Taha Academy of Beauty, Business & Health",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 168,
+      "name": "Ten Four Trainers",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 169,
+      "name": "The Fiorio Beauty Academy, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 170,
+      "name": "Thompson Career College of Health and Business, London",
+      "city": "London",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 171,
+      "name": "Thompson Career College of Health and Business, Markham",
+      "city": "Markham",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 172,
+      "name": "Thompson Career College of Health and Business, Mississauga",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 173,
+      "name": "Toronto Business College, Scarborough",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 174,
+      "name": "Toronto Film School, 1835 Yonge (Davisville)",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 175,
+      "name": "Toronto Film School, 415 Yonge",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 176,
+      "name": "Toronto International Business College, Scarborough",
+      "city": "Scarborough",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 177,
+      "name": "Toronto International Business College, Scarborough (200A)",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 178,
+      "name": "Transitions College of Business and Career Studies, Niagara Falls",
+      "city": "Niagara Falls",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 179,
+      "name": "United Transportation Driver Training",
+      "city": "Steinbach",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 180,
+      "name": "United Transportation Driver Training (Brandon Campus)",
+      "city": "Brandon",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 181,
+      "name": "United Transportation Driver Training (Winkler Campus)",
+      "city": "Winkler",
+      "province": "Manitoba",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 182,
+      "name": "Wetaskiwin Regional Division No. 11",
+      "city": "Wetaskiwin",
+      "province": "Alberta",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 183,
+      "name": "Wheels AZ",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 184,
+      "name": "Yellowknife Education District No. 1",
+      "city": "Yellowknife",
+      "province": "Northwest Territories",
+      "sector": "Public",
+      "education": "elementary/secondary school board/district",
+      "status": "Recognized"
+    },
+    {
+      "id": 185,
+      "name": "York Construction Academy, Toronto",
+      "city": "Toronto",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 186,
+      "name": "Young Canadian Driving Academy",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 187,
+      "name": "Youth Truck Driving School",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "id": 188,
+      "name": "test",
+      "city": "test",
+      "province": "test",
+      "sector": null,
+      "education": null,
+      "status": null,
+      "archived": true
+    }
+  ]
 }
