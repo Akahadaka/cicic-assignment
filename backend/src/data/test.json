@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "institution": "1st Academy of Transportation Inc.",
+      "city": "Brampton",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    },
+    {
+      "institution": "A1 Transportation Academy",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "sector": "For-profit",
+      "education": "career colleges and vocational/technical schools",
+      "status": "Registered"
+    }
+  ]
+}

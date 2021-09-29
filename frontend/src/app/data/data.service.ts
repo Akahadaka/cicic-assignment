@@ -2,6 +2,8 @@ import { HttpClient } from '@angular/common/http'
 import { Injectable } from '@angular/core'
 import { tap } from 'rxjs/operators'
 
+import { Institution } from './data.model'
+
 const ENV_URL = 'api/';
 
 @Injectable({
@@ -10,10 +12,9 @@ const ENV_URL = 'api/';
 export class DataService {
   constructor(private http: HttpClient) {}
 
-  getData() {
-    this.http
-      .get(ENV_URL + 'data', { responseType: 'json' })
+  getInstitutions$() {
+    return this.http
+      .get<Institution[]>(ENV_URL + 'institutions', { responseType: 'json' })
       .pipe(tap(console.log))
-      .subscribe();
   }
 }
