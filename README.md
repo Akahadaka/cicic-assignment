@@ -15,6 +15,8 @@ Available REST requests are GET, POST, PUT and DELETE
 
 ```$ npm run start```
 
+The server should be running on `http://localhost:3000/`
+
 This should copy the `data.json` file to the `./dist` folder, compile the Typescript and start the backend
 
 ### Other commands
@@ -46,3 +48,5 @@ Open a new terminal and navigate to this repo
 Here we use serve so that local proxy is easier
 
 ```$ npx ng serve```
+
+The application should be served on `http://localhost:4200`
